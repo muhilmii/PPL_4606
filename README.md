@@ -1,4 +1,4 @@
 # PPL_4606
 
-Nama : Muhammad Hilmi | 
-NIM : A11.2019.12126
+Muhammad Hilmi | 
+A11.2019.12126
